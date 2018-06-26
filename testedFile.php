@@ -11,6 +11,7 @@ function testFunction()
     if(empty($_POST['kk'])) {
         echo "EMPTY";
     }
+    echo "Add things at the same line. For auto merge test.";
     return "Hello world.<br>";
 }
 echo "Add an other line from web site editor.";
