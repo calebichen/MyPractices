@@ -8,6 +8,9 @@
 echo "Just a test";
 function testFunction()
 {
+    if(empty($_POST['kk'])) {
+        echo "EMPTY";
+    }
     return "Hello world.<br>";
 }
 echo "Add an other line from web site editor.";
