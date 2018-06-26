@@ -16,3 +16,10 @@ function test2($var)
 {
     echo "test".$var;
 }
+class Foo
+{
+    public function bar()
+    {
+        echo "Auto merge test.";
+    }
+}
