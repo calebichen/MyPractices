@@ -10,3 +10,4 @@ function testFunction()
 {
     return "Hello world.<br>";
 }
+echo "Add an other line from web site editor.";
