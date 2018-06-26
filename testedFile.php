@@ -8,5 +8,5 @@
 echo "Just a test";
 function testFunction()
 {
-
+    return "Hello world.<br>";
 }
