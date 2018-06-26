@@ -8,6 +8,7 @@
 echo "Just a test";
 function testFunction()
 {
+    echo "Add things at the same line. For auto merge test.";
     return "Hello world.<br>";
 }
 echo "Add an other line from web site editor.";
