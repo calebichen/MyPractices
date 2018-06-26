@@ -11,7 +11,7 @@ function testFunction()
     return "Hello world.<br>";
 }
 echo "Add an other line from web site editor.";
-
+echo "Add one another for auto-merge test.";
 function test2($var)
 {
     echo "test".$var;
