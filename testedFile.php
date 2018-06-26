@@ -27,3 +27,5 @@ class Foo
         echo "Auto merge test.";
     }
 }
+
+echo "Add something after uploaded another file by website.";
